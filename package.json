@@ -1,0 +1,22 @@
+{
+  "name": "pstack-agy",
+  "version": "0.15.44",
+  "private": true,
+  "description": "pstack (cursor/plugins) for Claude Code, pi, oh-my-pi, and Antigravity, synced weekly from upstream.",
+  "license": "MIT",
+  "type": "module",
+  "keywords": [
+    "pi-package",
+    "pstack",
+    "poteto-mode"
+  ],
+  "pi": {
+    "skills": [
+      "./harness/pi/skills"
+    ]
+  },
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "build": "node scripts/build.mjs"
+  }
+}

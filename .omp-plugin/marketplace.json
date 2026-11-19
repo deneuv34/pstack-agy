@@ -1,0 +1,14 @@
+{
+  "name": "pstack-agy",
+  "owner": {
+    "name": "deneuv34"
+  },
+  "plugins": [
+    {
+      "name": "pstack",
+      "source": "./harness/omp",
+      "description": "if you want to go fast, go deep first. pstack helps you write less, but higher quality code. rigorous agent workflows you can parallelize with confidence.",
+      "version": "0.15.44"
+    }
+  ]
+}
