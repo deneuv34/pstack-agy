@@ -1,6 +1,6 @@
 {
   "name": "pstack-agy",
-  "version": "0.15.44",
+  "version": "0.15.46",
   "private": true,
   "description": "pstack (cursor/plugins) for Claude Code, pi, oh-my-pi, and Antigravity, synced weekly from upstream.",
   "license": "MIT",

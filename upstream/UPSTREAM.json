@@ -1,7 +1,7 @@
 {
   "repository": "https://github.com/cursor/plugins",
   "ref": "main",
-  "commit": "e58dd043600587dbaf58ba315e7f2b38373eeb43",
-  "committedAt": "2026-11-19T00:26:56-06:00",
-  "version": "0.15.44"
+  "commit": "0b46ec399d55f2829e88822998f53b84944837d3",
+  "committedAt": "2026-11-19T16:12:08-06:00",
+  "version": "0.15.46"
 }
